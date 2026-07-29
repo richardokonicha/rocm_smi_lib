@@ -4,7 +4,6 @@
 
 # VisualStudioCode
 .venv/
-.vscode/
 _build
 
 # below files are generated via CMake
@@ -33,3 +32,5 @@ README.html
 
 # avoid duplicating contributing.md due to conf.py
 docs/CHANGELOG.md
+config.bat
+node_modules
